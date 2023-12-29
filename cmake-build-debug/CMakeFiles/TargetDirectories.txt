@@ -1,0 +1,3 @@
+/home/oreste/Desktop/M1/diagrammeVoronoi/cmake-build-debug/CMakeFiles/diagrammeVoronoi.dir
+/home/oreste/Desktop/M1/diagrammeVoronoi/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/oreste/Desktop/M1/diagrammeVoronoi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
